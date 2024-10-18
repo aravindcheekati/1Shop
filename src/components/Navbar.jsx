@@ -34,7 +34,7 @@ const Navbar = () => {
               {toggle &&
                 <ul className="w-60 h-20 bg-white absolute top-14 right-0 shadow rounded-lg p-2 z-10">
                   <li className="p-1 rounded text-left text-[12px]">
-                    Email: cheekatiarvind@gmail.com
+                    Email: example@gmail.com
                   </li>
                   <li className="p-1 rounded">
                     <button className="block">
